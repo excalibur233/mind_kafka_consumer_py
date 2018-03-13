@@ -1,0 +1,2 @@
+# mind_kafka_consumer_py
+mind_kafka_consumer_py
